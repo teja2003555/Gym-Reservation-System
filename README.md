@@ -33,6 +33,13 @@ A full-stack web application that allows users to register, login, and book gym 
    http://localhost:5000
 
 
+## 📸 Screenshots
+
+### 🔐 Login Page
+![Login Page](screenshots/)
+
+### 📅 Booking Dashboard
+![Dashboard](screenshots/dashboard.png)
 
 
    
