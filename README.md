@@ -37,9 +37,3 @@ A full-stack web application that allows users to register, login, and book gym 
 
 ### 🔐 Login Page
 ![Login Page](screenshots/login.png)
-
-### 📅 Booking Dashboard
-![Dashboard](screenshots/booking-dashboard.png)
-
-
-   
